@@ -28,5 +28,5 @@
 
 <p align="center">
 <a href="https://instagram.com/https://instagram.com/ahnaf.zamil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://instagram.com/ahnaf.zamil" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/c/ahnafzamil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://youtube.com/c/ahnafzamil" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/ahnafzamil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://youtube.com/c/ahnafzamil" height="30" width="30" /></a>
 </p>
