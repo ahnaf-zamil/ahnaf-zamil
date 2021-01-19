@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahnaf-zamil" alt="ahnaf-zamil" /> </p>
 
-- 🔭 I’m currently working on [Zenora, A Discord API Wrapper](https://github.com/ahnaf-zamil/zenora)
+- 🔭 I’m currently working on [Zenora Rewrite](https://github.com/ahnaf-zamil/zenora-rewrite)
 
 - 🌱 I’m currently learning **BASS**
 
-- 👯 I’m looking to collaborate on [Zenora, A Discord API Wrapper](https://github.com/ahnaf-zamil/zenora)
+- 👯 I’m looking to collaborate on [Zenora Rewrite](https://github.com/ahnaf-zamil/zenora-rewrite)
 
-- 🤝 I’m looking for help with [Zenora, A Discord API Wrapper](https://github.com/ahnaf-zamil/zenora)
+- 🤝 I’m looking for help with [Zenora Rewrite](https://github.com/ahnaf-zamil/zenora-rewrite)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahnaf-zamil](https://github.com/ahnaf-zamil)
 
