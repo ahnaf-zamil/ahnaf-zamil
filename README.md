@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahnaf-zamil" alt="ahnaf-zamil" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot JWT**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [ahnafzamil.com](ahnafzamil.com)
 
-- 💬 Ask me about **React, Spring Boot, Flask, Discord.py, Hikari**
+- 💬 Ask me about **React, Docker, Flask, Discord.py, Hikari**
 
 - 📫 How to reach me **ahnafzamil@protonmail.com**
 
