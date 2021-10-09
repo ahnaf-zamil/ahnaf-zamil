@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/-XAMPP-001633?style=for-the-badge&logo=xampp">
   <img src="https://img.shields.io/badge/-Docker-001633?style=for-the-badge&logo=docker">
   <img src="https://img.shields.io/badge/-Stripe API-001633?style=for-the-badge&logo=stripe">
-  <img src="https://img.shields.io/badge/-Oracle Virtualbox-001633?style=for-the-badge&logo=virtualbox">
 </div>
 
 <br/>
