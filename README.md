@@ -5,7 +5,7 @@
 
 <p>I'm also heavily interested in teaching others how to code. Here's my <a href="https://youtube.com/c/ahnafzamil">YouTube channel.</a></p>
 
-### Technologies that I know how to use
+## Technologies that I know how to use
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/-StackOverflow-001633?style=for-the-badge&logo=stackoverflow">
   <img src="https://img.shields.io/badge/-Python-001633?style=for-the-badge&logo=python">
@@ -32,10 +32,11 @@
   <img src="https://img.shields.io/badge/-Stripe API-001633?style=for-the-badge&logo=stripe">
 </div>
 
-<br/>
+
+## My Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahnaf-zamil&show_icons=true&theme=react" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnaf-zamil&layout=compact&card_width=250&langs_count=8&theme=react" height="195rem" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnaf-zamil&layout=compact&card_width=250&langs_count=6&theme=react" height="195rem"  />
 </p>
 
 
