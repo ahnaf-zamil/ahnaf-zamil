@@ -32,13 +32,19 @@
   <img src="https://img.shields.io/badge/-Stripe API-001633?style=for-the-badge&logo=stripe">
 </div>
 
+## Socials
+<div style="display: flex;">
+  <a href="https://discord.gg/3chuca3EMh"><img src="https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord"></a>
+  <a href="https://twitter.com/ahnaf_zamil"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter"></a>
+  <a href="https://youtube.com/c/ahnafzamil"><img src="https://img.shields.io/badge/-YouTube-black?style=for-the-badge&logo=youtube"></a>
+  <a href="https://dev.to/devguyahnaf"><img src="https://img.shields.io/badge/-Dev.to-black?style=for-the-badge&logo=dev.to"></a>
+  <a href="mailto:ahnaf@ahnafzamil.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail"></a>
+</div>
 
-## My Statistics
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ahnaf-zamil&style=flat-square"></p><br/>
+## Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahnaf-zamil&show_icons=true&theme=react" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnaf-zamil&layout=compact&card_width=250&langs_count=6&theme=react" height="195rem"  />
 </p>
-
 
 <h4>This is my GitHub repository where you will see some weird projects that I have worked on, but maybe some cool ones too (based on how you define "cool").</h4>
