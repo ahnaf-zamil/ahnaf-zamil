@@ -34,6 +34,7 @@
 
 
 ## My Statistics
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ahnaf-zamil&style=flat-square"></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahnaf-zamil&show_icons=true&theme=react" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnaf-zamil&layout=compact&card_width=250&langs_count=6&theme=react" height="195rem"  />
