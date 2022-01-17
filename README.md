@@ -1,7 +1,6 @@
-# 👋 Hello! I'm Ahnaf 
+# 👋 Hello! I'm Ahnaf
 
-<img src="https://media.discordapp.net/attachments/774289170545377290/896270889149141032/banner.png?width=1440&height=551" style="width: 100%">
-<p>I'm a high school student interested in Full-Stack Web Development. I have been programming since 2017.</p>
+<p>I'm some guy interested in Full-Stack Web Development. I have been programming since 2017.</p>
 
 <p>I'm also heavily interested in teaching others how to code. Here's my <a href="https://youtube.com/c/ahnafzamil">YouTube channel.</a></p>
 
