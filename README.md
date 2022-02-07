@@ -1,40 +1,87 @@
 # 👋 Hello! I'm Ahnaf
 
-<p>I'm some guy interested in Full-Stack Web Development. I have been programming since 2017.</p>
+<p>My name is Ahnaf, I'm known as <b>DevGuyAhnaf</b> or Mog33 on the internet. <strike>Full-Stack</strike> <b>Backend development</b> is my passion, and I REALLY like making system designs and doing some DevOps/server stuff. I'm also heavily interested in teaching others how to code. Here's my <a href="https://youtube.com/c/ahnafzamil">YouTube channel</a> where I make tutorials on random things.</p>
 
-<p>I'm also heavily interested in teaching others how to code. Here's my <a href="https://youtube.com/c/ahnafzamil">YouTube channel.</a></p>
+## Philosophies
+
+<small><i>Start the beat</i></small>
+
+<p>- I do not like JavaScript, and I would prefer not programming for 1 day instead of using it (unless someone pays me to use JS, then I might consider :>)</p>
+<p>- Statically-typed languages are love. If not available, use type hints or annotations.
+<p>- Making the code modular, separating the service and controller</p>
+<p>- Used to write raw SQL, with connections parallel</p>
+<p>- Dependency injection keeps me safe, microservices prevent the chafe</p>
+<p>- Writing tests make me sore, variable naming with underscore</p>
 
 ## Technologies that I know how to use
+
+### Programming Languages
 <div style="display: flex;">
-  <img src="https://img.shields.io/badge/-StackOverflow-001633?style=for-the-badge&logo=stackoverflow">
   <img src="https://img.shields.io/badge/-Python-001633?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/-Java-001633?style=for-the-badge&logo=java">
   <img src="https://img.shields.io/badge/-JavaScript-001633?style=for-the-badge&logo=javascript">
   <img src="https://img.shields.io/badge/-TypeScript-001633?style=for-the-badge&logo=typescript">
-  <img src="https://img.shields.io/badge/-HTML-001633?style=for-the-badge&logo=html5">
-  <img src="https://img.shields.io/badge/-CSS-001633?style=for-the-badge&logo=css3">
-  <img src="https://img.shields.io/badge/-PostgreSQL-001633?style=for-the-badge&logo=postgresql">
-  <img src="https://img.shields.io/badge/-MySQL-001633?style=for-the-badge&logo=mysql">
-  <img src="https://img.shields.io/badge/-MongoDB-001633?style=for-the-badge&logo=mongodb">
-  <img src="https://img.shields.io/badge/-Redis-001633?style=for-the-badge&logo=redis">
+</div>
+
+### 
+
+### Backend frameworks/libraries
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/-Flask-001633?style=for-the-badge&logo=flask">
+  <img src="https://img.shields.io/badge/-FastAPI-001633?style=for-the-badge&logo=fastapi">
+  <img src="https://img.shields.io/badge/-Spring Boot-001633?style=for-the-badge&logo=springboot">
+  <img src="https://img.shields.io/badge/-Express-001633?style=for-the-badge&logo=express">
+</div>
+
+### Frontend frameworks/libraries
+<div style="display: flex;">
   <img src="https://img.shields.io/badge/-React-001633?style=for-the-badge&logo=react">
   <img src="https://img.shields.io/badge/-JQuery-001633?style=for-the-badge&logo=jquery">
-  <img src="https://img.shields.io/badge/-Flask-001633?style=for-the-badge&logo=flask">
-  <img src="https://img.shields.io/badge/-Node.js-001633?style=for-the-badge&logo=node.js">
+  <img src="https://img.shields.io/badge/-Svelte-001633?style=for-the-badge&logo=svelte">
+  <img src="https://img.shields.io/badge/-Tailwind CSS-001633?style=for-the-badge&logo=tailwindcss">
+  <img src="https://img.shields.io/badge/-Bootstrap-001633?style=for-the-badge&logo=bootstrap">
+</div>
+
+### Databases/Query Lang
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/-PostgreSQL-001633?style=for-the-badge&logo=postgresql">
+  <img src="https://img.shields.io/badge/-MongoDB-001633?style=for-the-badge&logo=mongodb">
+  <img src="https://img.shields.io/badge/-Redis-001633?style=for-the-badge&logo=redis">
   <img src="https://img.shields.io/badge/-GraphQL-001633?style=for-the-badge&logo=graphql">
-  <img src="https://img.shields.io/badge/-Git-001633?style=for-the-badge&logo=git">
-  <img src="https://img.shields.io/badge/-Bash-001633?style=for-the-badge&logo=gnubash">
-  <img src="https://img.shields.io/badge/-GNU/Linux-001633?style=for-the-badge&logo=linux">
-  <img src="https://img.shields.io/badge/-Windows-001633?style=for-the-badge&logo=Windows">
-  <img src="https://img.shields.io/badge/-Nginx-001633?style=for-the-badge&logo=nginx">
-  <img src="https://img.shields.io/badge/-XAMPP-001633?style=for-the-badge&logo=xampp">
+</div>
+
+### Tools/Cloud
+<div style="display: flex;">
   <img src="https://img.shields.io/badge/-Docker-001633?style=for-the-badge&logo=docker">
-  <img src="https://img.shields.io/badge/-Stripe API-001633?style=for-the-badge&logo=stripe">
+  <img src="https://img.shields.io/badge/-Amazon Web Services-001633?style=for-the-badge&logo=amazonaws">
+  <img src="https://img.shields.io/badge/-Git-001633?style=for-the-badge&logo=git">
+  <img src="https://img.shields.io/badge/-GitHub Actions-001633?style=for-the-badge&logo=githubactions">
+  <img src="https://img.shields.io/badge/-Jenkins-001633?style=for-the-badge&logo=jenkins">
+  <img src="https://img.shields.io/badge/-Bash-001633?style=for-the-badge&logo=gnubash">
+</div>
+
+### Productive Software
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/-Photoshop-001633?style=for-the-badge&logo=adobephotoshop">
+  <img src="https://img.shields.io/badge/-Premiere Pro-001633?style=for-the-badge&logo=adobepremierepro">
+  <img src="https://img.shields.io/badge/-Gimp-001633?style=for-the-badge&logo=gimp">
+  <img src="https://img.shields.io/badge/-Kdenlive-001633?style=for-the-badge&logo=kdenlive">
+  <img src="https://img.shields.io/badge/-Blender-001633?style=for-the-badge&logo=blender">
+</div>
+  
+### Help and bug fixing
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/-StackOverflow-001633?style=for-the-badge&logo=stackoverflow">
+  <img src="https://img.shields.io/badge/-Google-001633?style=for-the-badge&logo=google">
+  <img src="https://img.shields.io/badge/-Geeks For Geeks-001633?style=for-the-badge&logo=geeksforgeeks">
+  <img src="https://img.shields.io/badge/-YouTube-001633?style=for-the-badge&logo=youtube">
+  <img src="https://img.shields.io/badge/-Dev.To-001633?style=for-the-badge&logo=devdotto">
 </div>
 
 ## Socials
 <div style="display: flex;">
   <a href="https://discord.gg/3chuca3EMh"><img src="https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord"></a>
-  <a href="https://twitter.com/ahnaf_zamil"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter"></a>
+  <a href="https://twitter.com/devguyahnaf"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter"></a>
   <a href="https://youtube.com/c/ahnafzamil"><img src="https://img.shields.io/badge/-YouTube-black?style=for-the-badge&logo=youtube"></a>
   <a href="https://dev.to/devguyahnaf"><img src="https://img.shields.io/badge/-Dev.to-black?style=for-the-badge&logo=dev.to"></a>
   <a href="mailto:ahnaf@ahnafzamil.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail"></a>
