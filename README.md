@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Ahnaf
 
-<p>My name is Ahnaf, I'm known as <b>DevGuyAhnaf</b> or Mog33 on the internet. <strike>Full-Stack</strike> <b>Backend development</b> is my passion, and I REALLY like making system designs and doing some DevOps/server stuff. I'm also heavily interested in teaching others how to code. Here's my <a href="https://youtube.com/c/ahnafzamil">YouTube channel</a> where I make tutorials on random things.</p>
+<p>My name is Ahnaf, I'm known as <b>DevGuyAhnaf</b> on the internet. <strike>Full-Stack</strike> <b>Backend development</b> is my passion, and I REALLY like making system designs and doing some DevOps/server stuff. I'm also heavily interested in teaching others how to code. Here's my <a href="https://youtube.com/c/ahnafzamil">YouTube channel</a> where I make tutorials on random things.</p>
 
 ## Philosophies
 
@@ -88,7 +88,7 @@
 </div>
 
 ## Statistics
-<p align="center">
+<p style="display: flex; width: 100%;" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahnaf-zamil&show_icons=true&theme=react" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnaf-zamil&layout=compact&card_width=250&langs_count=6&theme=react" height="195rem"  />
 </p>
