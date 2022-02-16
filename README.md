@@ -6,7 +6,7 @@
 
 <small><i>Start the beat</i></small>
 
-<p>- I do not like JavaScript, and I would prefer not programming for 1 day instead of using it (unless someone pays me to use JS, then I might consider :>)</p>
+<p>- I prefer not using JavaScript, unless someone pays me to :)</p>
 <p>- Statically-typed languages are love. If not available, use type hints or annotations.
 <p>- Making the code modular, separating the service and controller</p>
 <p>- Used to write raw SQL, with connections parallel</p>
