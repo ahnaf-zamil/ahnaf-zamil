@@ -1,6 +1,6 @@
-# 👋 Hello! I'm Ahnaf
+# The name's Ahnaf 😎
 
-<p>My name is Ahnaf, I'm known as <b>DevGuyAhnaf</b> on the internet. <strike>Full-Stack</strike> <b>Backend development</b> is my passion, and I REALLY like making system designs and doing some DevOps/server stuff. I'm also heavily interested in teaching others how to code. Here's my <a href="https://youtube.com/c/ahnafzamil">YouTube channel</a> where I make tutorials on random things.</p>
+<p>My name is Ahnaf, I'm known as <b>DevGuyAhnaf</b> on the internet. Full-Stack web development is my <b>pasSHon</b>, and I REALLY like making microservice systems and doing some DevOps/server stuff. I'm also heavily interested in teaching others how to code. Here's my <a href="https://youtube.com/c/ahnafzamil">YouTube channel</a> where I make tutorials on random things.</p>
 
 ## Philosophies
 
@@ -15,61 +15,6 @@
 
 ## Technologies that I know how to use
 
-### Programming Languages
-<div style="display: flex;">
-  <img src="https://img.shields.io/badge/-Python-001633?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/-Java-001633?style=for-the-badge&logo=java">
-  <img src="https://img.shields.io/badge/-JavaScript-001633?style=for-the-badge&logo=javascript">
-  <img src="https://img.shields.io/badge/-TypeScript-001633?style=for-the-badge&logo=typescript">
-</div>
-
-### 
-
-### Backend frameworks/libraries
-<div style="display: flex;">
-  <img src="https://img.shields.io/badge/-Flask-001633?style=for-the-badge&logo=flask">
-  <img src="https://img.shields.io/badge/-FastAPI-001633?style=for-the-badge&logo=fastapi">
-  <img src="https://img.shields.io/badge/-Spring Boot-001633?style=for-the-badge&logo=springboot">
-  <img src="https://img.shields.io/badge/-Express-001633?style=for-the-badge&logo=express">
-</div>
-
-### Frontend frameworks/libraries
-<div style="display: flex;">
-  <img src="https://img.shields.io/badge/-React-001633?style=for-the-badge&logo=react">
-  <img src="https://img.shields.io/badge/-JQuery-001633?style=for-the-badge&logo=jquery">
-  <img src="https://img.shields.io/badge/-Svelte-001633?style=for-the-badge&logo=svelte">
-  <img src="https://img.shields.io/badge/-Tailwind CSS-001633?style=for-the-badge&logo=tailwindcss">
-  <img src="https://img.shields.io/badge/-Bootstrap-001633?style=for-the-badge&logo=bootstrap">
-</div>
-
-### Databases/Query Lang
-<div style="display: flex;">
-  <img src="https://img.shields.io/badge/-PostgreSQL-001633?style=for-the-badge&logo=postgresql">
-  <img src="https://img.shields.io/badge/-MongoDB-001633?style=for-the-badge&logo=mongodb">
-  <img src="https://img.shields.io/badge/-Redis-001633?style=for-the-badge&logo=redis">
-  <img src="https://img.shields.io/badge/-GraphQL-001633?style=for-the-badge&logo=graphql">
-</div>
-
-### Tools/Cloud
-<div style="display: flex;">
-  <img src="https://img.shields.io/badge/-Docker-001633?style=for-the-badge&logo=docker">
-  <img src="https://img.shields.io/badge/-Amazon Web Services-001633?style=for-the-badge&logo=amazonaws">
-  <img src="https://img.shields.io/badge/-Git-001633?style=for-the-badge&logo=git">
-  <img src="https://img.shields.io/badge/-GitHub Actions-001633?style=for-the-badge&logo=githubactions">
-  <img src="https://img.shields.io/badge/-Jenkins-001633?style=for-the-badge&logo=jenkins">
-  <img src="https://img.shields.io/badge/-Bash-001633?style=for-the-badge&logo=gnubash">
-</div>
-
-### Productive Software
-<div style="display: flex;">
-  <img src="https://img.shields.io/badge/-Photoshop-001633?style=for-the-badge&logo=adobephotoshop">
-  <img src="https://img.shields.io/badge/-Premiere Pro-001633?style=for-the-badge&logo=adobepremierepro">
-  <img src="https://img.shields.io/badge/-Gimp-001633?style=for-the-badge&logo=gimp">
-  <img src="https://img.shields.io/badge/-Kdenlive-001633?style=for-the-badge&logo=kdenlive">
-  <img src="https://img.shields.io/badge/-Blender-001633?style=for-the-badge&logo=blender">
-</div>
-  
-### Help and bug fixing
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/-StackOverflow-001633?style=for-the-badge&logo=stackoverflow">
   <img src="https://img.shields.io/badge/-Google-001633?style=for-the-badge&logo=google">
