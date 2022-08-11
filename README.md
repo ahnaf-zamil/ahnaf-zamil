@@ -1,6 +1,6 @@
 # The name's Ahnaf 😎
 
-<p>My name is Ahnaf, I'm known as <b>DevGuyAhnaf</b> on the internet. Full-Stack web development is my <b>pasSHon</b>, and I REALLY like making microservice systems and doing some DevOps/server stuff. I'm also heavily interested in teaching others how to code. Here's my <a href="https://youtube.com/c/ahnafzamil">YouTube channel</a> where I make tutorials on random things.</p>
+<p>My name is Ahnaf, I'm known as <b>DevGuyAhnaf</b> on the internet. Backend development is my <b>pasSHon</b>, and I REALLY like working with distributed systems and networking stuff. I'm into teaching others how to code. Here's my <a href="https://youtube.com/c/ahnafzamil">YouTube channel</a> where I make tutorials on random things.</p>
 
 ## Philosophies
 
