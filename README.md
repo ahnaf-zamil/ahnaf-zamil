@@ -25,14 +25,14 @@
 
 ## Socials
 <div style="display: flex;">
-  <a href="https://discord.gg/3chuca3EMh"><img src="https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord&label=Ahnaf%234346"></a>
+  <a href=""><img src="https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord&label=Ahnaf%234346"></a>
   <a href="https://twitter.com/devguyahnaf"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&label=devguyahnaf"></a>
   <a href="https://youtube.com/c/ahnafzamil"><img src="https://img.shields.io/badge/-YouTube-black?style=for-the-badge&logo=youtube&label=DevGuyAhnaf"></a>
   <a href="mailto:ahnaf@ahnafzamil.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&label=hi@ahnafzamil.com"></a>
 </div>
 
 ## Join my Discord
-<img src="https://discord.com/api/guilds/783359069993435146/widget.png?style=banner2">
+<a href="https://discord.gg/3chuca3EMh"><img src="https://discord.com/api/guilds/783359069993435146/widget.png?style=banner2"></a>
 
 <br>
 <div style="display: flex; width:100%; ">
