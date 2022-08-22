@@ -32,10 +32,10 @@
   <a href="mailto:ahnaf@ahnafzamil.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail"></a>
 </div>
 
-<br>
+<br><br>
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahnaf-zamil&show_icons=true&theme=rose_pine" />
-</span>
+</span><br>
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnaf-zamil&layout=compact&card_width=250&langs_count=6&theme=rose_pine" height="195rem" />
 </span>
