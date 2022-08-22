@@ -35,7 +35,7 @@
 <br>
 <p style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=ahnaf-zamil&show_icons=true&theme=rose_pine" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnaf-zamil&layout=compact&card_width=350&langs_count=6&theme=rose_pine" height="195rem"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnaf-zamil&layout=compact&card_width=300&langs_count=6&theme=rose_pine" height="195rem"  />
 </p>
 
 <h4>This is my GitHub repository where you will see some weird projects that I have worked on, but maybe some cool ones too (based on how you define "cool").</h4>
