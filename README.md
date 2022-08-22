@@ -6,12 +6,13 @@
 
 <small><i>Start the beat</i></small>
 
-<p>- I prefer not using JavaScript, unless someone pays me to :)</p>
-<p>- Statically-typed languages are love. If not available, use type hints or annotations.
-<p>- Making the code modular, separating the service and controller</p>
-<p>- Used to write raw SQL, with connections parallel</p>
+<p>- Anything that's not JavaScript or PHP is love (TypeScript is fine)</p>
+<p>- Statically typed languages are amazing</p>
+<p>- Distributed systems are awesome, making the services scalable</p>
+<p>- Compiled languages >>>>>>>>>>>>> Interpreted langs (although I used Python once)</p>
 <p>- Dependency injection keeps me safe, microservices prevent the chafe</p>
-<p>- Writing tests make me sore, variable naming with underscore</p>
+<p>- I prefer not writing tests when I don't need to, although this is a habit that I need to change :/</p>
+<p>- I would rather not do frontend work, please...</p>
 
 ## Technologies that I know how to use
 
