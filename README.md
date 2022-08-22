@@ -25,19 +25,19 @@
 
 ## Socials
 <div style="display: flex;">
-  <a href="https://discord.gg/3chuca3EMh"><img src="https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord"></a>
-  <a href="https://twitter.com/devguyahnaf"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter"></a>
-  <a href="https://youtube.com/c/ahnafzamil"><img src="https://img.shields.io/badge/-YouTube-black?style=for-the-badge&logo=youtube"></a>
-  <a href="https://dev.to/devguyahnaf"><img src="https://img.shields.io/badge/-Dev.to-black?style=for-the-badge&logo=dev.to"></a>
-  <a href="mailto:ahnaf@ahnafzamil.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail"></a>
+  <a href="https://discord.gg/3chuca3EMh"><img src="https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord&label=Ahnaf%234346"></a>
+  <a href="https://twitter.com/devguyahnaf"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&label=devguyahnaf"></a>
+  <a href="https://youtube.com/c/ahnafzamil"><img src="https://img.shields.io/badge/-YouTube-black?style=for-the-badge&logo=youtube&label=DevGuyAhnaf"></a>
+  <a href="mailto:ahnaf@ahnafzamil.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&label=hi@ahnafzamil.com"></a>
 </div>
 
-<br><br>
-<span>
+## Join my Discord
+<img src="https://discord.com/api/guilds/783359069993435146/widget.png?style=banner2">
+
+<br>
+<div style="display: flex; width:100%; ">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahnaf-zamil&show_icons=true&theme=rose_pine" />
-</span><br>
-<span>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnaf-zamil&layout=compact&card_width=250&langs_count=6&theme=rose_pine" height="195rem" />
-</span>
+</div>
 
 <h4>This is my GitHub repository where you will see some weird projects that I have worked on, but maybe some cool ones too (based on how you define "cool").</h4>
