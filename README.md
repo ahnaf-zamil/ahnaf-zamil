@@ -2,6 +2,9 @@
 
 <p>My name is Ahnaf, I'm known as <b>DevGuyAhnaf</b> on the internet. Backend development is my <b>pasSHon</b>, and I REALLY like working with distributed systems and networking stuff. I'm into teaching others how to code. Here's my <a href="https://youtube.com/c/ahnafzamil">YouTube channel</a> where I make tutorials on random things.</p>
 
+## NOTE
+I've started to move things to GitLab because I find it more convenient than GitHub for my tastes. I will have all my repos here, but active development and latest projects will be all on my GitLab. [Link](https://gitlab.com/ahnaf-zamil/)
+
 ## Philosophies
 
 <small><i>Start the beat</i></small>
