@@ -1,21 +1,10 @@
-# The name's Ahnaf 😎
+# I'm Ahnaf
 
-<p>My name is Ahnaf, I'm known as <b>DevGuyAhnaf</b> on the internet. Backend development is my <b>pasSHon</b>, and I REALLY like working with distributed systems and networking stuff. I'm into teaching others how to code. Here's my <a href="https://youtube.com/c/ahnafzamil">YouTube channel</a> where I make tutorials on random things.</p>
+<p>Hello, my name is Ahnaf, also known as DevGuyAhnaf online. I'm a developer with a passion for backend development and everything surrounding it. APIs, databases, networking, distributed systems, DevOps, etc. I love it all. Sometimes I make libraries or utility software for the fun of it, most of them are here on GitHub.
 
-## NOTE
-I've started to move things to GitLab because I find it more convenient than GitHub for my tastes. I will have all my repos here, but active development and latest projects will be all on my GitLab. [Link](https://gitlab.com/ahnaf-zamil/)
+This profile contains most of the public work I do, as well as my contact info if someone wants to contact me. 
 
-## Philosophies
-
-<small><i>Start the beat</i></small>
-
-<p>- Anything that's not JavaScript or PHP is love (TypeScript is fine)</p>
-<p>- Statically typed languages are amazing</p>
-<p>- Distributed systems are awesome, making the services scalable</p>
-<p>- Compiled languages >>>>>>>>>>>>> Interpreted langs (although I used Python once)</p>
-<p>- Dependency injection keeps me safe, microservices prevent the chafe</p>
-<p>- I prefer not writing tests when I don't need to, although this is a habit that I need to change :/</p>
-<p>- I would rather not do frontend work, please...</p>
+Don't hesitate to send me an email if you want to ask something, I will reply as soon as I can :D</p>
 
 ## Technologies that I know how to use
 
@@ -41,7 +30,7 @@ I've started to move things to GitLab because I find it more convenient than Git
 <br>
 <div style="display: flex; width:100%; ">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahnaf-zamil&show_icons=true&theme=rose_pine" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnaf-zamil&layout=compact&card_width=250&langs_count=6&theme=rose_pine" height="195rem" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnaf-zamil&layout=compact&card_width=250&langs_count=6&theme=rose_pine&hide_progress=true" height="195rem" />
 </div>
 
 <h4>This is my GitHub repository where you will see some weird projects that I have worked on, but maybe some cool ones too (based on how you define "cool").</h4>
