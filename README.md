@@ -1,6 +1,6 @@
-# As-salamu alaykum, I'm Ahnaf 👋
+# Hello there, I'm Ahnaf 👋
 
-<p>Hello, my name is Ahnaf, also known as DevGuyAhnaf online. I'm a developer with a passion for backend development and everything surrounding it. APIs, databases, networking, distributed systems, DevOps, etc. I love it all. Sometimes I make libraries or utility software for the fun of it, most of them are here on GitHub.
+<p>Hello, my name is Ahnaf, also known as DevGuyAhnaf online. I'm a developer with a passion for backend development and everything surrounding it. APIs, databases, networking, distributed systems, DevOps, etc. I like em all. Sometimes I make libraries or utility software for the fun of it, most of them are here on GitHub.
 
 This profile contains most of the public work I do, as well as my contact info if someone wants to contact me. 
 
