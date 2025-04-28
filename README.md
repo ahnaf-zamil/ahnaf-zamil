@@ -15,7 +15,7 @@ Some areas I like working with:
 
 `Python` | `Go` | `C/C++` | `TypeScript` | `Lua` | `PostgreSQL` | `Redis` | `RabbitMQ` | `Kafka` | `NATS` | `Docker` | `Linux` | `Cloud Platforms`
 
-## Current Learning
+## Currently Learning
 1. Cloud infrastructure at a deeper level (Terraform, advanced AWS)
 2. Observability (metrics, tracing, logging at scale)
 3. High-frequency networking and edge computing concepts
