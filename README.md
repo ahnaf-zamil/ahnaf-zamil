@@ -1,36 +1,29 @@
-# Hello there, I'm Ahnaf 👋
+# Hi, I'm Ahnaf 👋
 
-<p>Hello, my name is Ahnaf, also known as DevGuyAhnaf online. I'm a developer with a passion for backend development and everything surrounding it. APIs, databases, networking, distributed systems, DevOps, etc. I like em all. Sometimes I make libraries or utility software for the fun of it, most of them are here on GitHub.
+I'm a Backend & Systems Developer who enjoys building scalable systems, distributed architectures, and high-performance backend services.
 
-This profile contains most of the public work I do, as well as my contact info if someone wants to contact me. 
+Over the last 4+ years, I've worked on projects ranging from API development to distributed event-driven systems using technologies like PostgreSQL, RabbitMQ, Kafka, NATS, and Redis. I enjoy solving real-world problems with clean, efficient code and robust system design.
 
-Don't hesitate to send me an email if you want to ask something, I will reply as soon as I can :D</p>
+Some areas I like working with:
 
-## Technologies that I know how to use
+- Backend Development (APIs, real-time apps, system services)
+- Distributed Systems & Event-Driven Architecture
+- Cloud Infrastructure, Docker, and Deployment
+- Edge Networking — Load Balancing, Service Meshes, Proxies
 
-<div style="display: flex;">
-  <img src="https://img.shields.io/badge/-StackOverflow-001633?style=for-the-badge&logo=stackoverflow">
-  <img src="https://img.shields.io/badge/-Google-001633?style=for-the-badge&logo=google">
-  <img src="https://img.shields.io/badge/-Geeks For Geeks-001633?style=for-the-badge&logo=geeksforgeeks">
-  <img src="https://img.shields.io/badge/-YouTube-001633?style=for-the-badge&logo=youtube">
-  <img src="https://img.shields.io/badge/-Dev.To-001633?style=for-the-badge&logo=devdotto">
-</div>
+## 🔧 Tech I work with
 
-## Socials
-<div style="display: flex;">
-  <a href=""><img src="https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord&label=Ahnaf%234346"></a>
-  <a href="https://twitter.com/devguyahnaf"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&label=devguyahnaf"></a>
-  <a href="https://youtube.com/c/ahnafzamil"><img src="https://img.shields.io/badge/-YouTube-black?style=for-the-badge&logo=youtube&label=DevGuyAhnaf"></a>
-  <a href="mailto:ahnaf@ahnafzamil.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&label=hi@ahnafzamil.com"></a>
-</div>
+`Python` | `Go` | `C/C++` | `TypeScript` | `Lua` | `PostgreSQL` | `Redis` | `RabbitMQ` | `Kafka` | `NATS` | `Docker` | `Linux` | `Cloud Platforms`
 
-## Join my Discord
-<a href="https://discord.gg/3chuca3EMh"><img src="https://discord.com/api/guilds/783359069993435146/widget.png?style=banner2"></a>
+## Current Learning
+1. Cloud infrastructure at a deeper level (Terraform, advanced AWS)
+2. Observability (metrics, tracing, logging at scale)
+3. High-frequency networking and edge computing concepts
 
-<br>
-<div style="display: flex; width:100%; ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahnaf-zamil&show_icons=true&theme=rose_pine" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnaf-zamil&layout=compact&card_width=250&langs_count=6&theme=rose_pine&hide_progress=true" height="195rem" />
-</div>
+## 📫 Reach out
 
-<h4>This is my GitHub repository where you will see some weird projects that I have worked on, but maybe some cool ones too (based on how you define "cool").</h4>
+I'm always open to connecting and talking about tech, systems, or just exchanging ideas!
+Feel free to reach out [here](mailto:ahnaf@ahnafzamil.com) or on [LinkedIn](https://www.linkedin.com/in/ahnafzamil/).
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahnaf-zamil&theme=2077) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahnaf-zamil&theme=2077) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahnaf-zamil&theme=2077&exclude=html,CSS,javascript)
