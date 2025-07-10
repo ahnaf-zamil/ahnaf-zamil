@@ -2,7 +2,7 @@
 
 I'm a Backend & Systems Developer who enjoys building scalable systems, distributed architectures, and high-performance backend services.
 
-Over the last 4+ years, I've worked on projects ranging from API development to distributed event-driven systems using technologies like PostgreSQL, RabbitMQ, Kafka, NATS, and Redis. I enjoy solving real-world problems with clean, efficient code and robust system design.
+Over the last 5+ years, I've worked on projects ranging from API development to distributed event-driven systems using technologies like PostgreSQL, RabbitMQ, Kafka, NATS, and Redis. I enjoy solving real-world problems with clean, efficient code and robust system design.
 
 Some areas I like working with:
 
