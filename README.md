@@ -1,28 +1,22 @@
-# Hi, I'm Ahnaf 👋
+I'm a **Backend & Systems Developer** passionate about building scalable systems, distributed architectures, and high-performance backend services; or just whatever bizzare idea that comes to my mind.
 
-I'm a Backend & Systems Developer who enjoys building scalable systems, distributed architectures, and high-performance backend services.
+Since 2018, I’ve worked on projects ranging from real-time APIs to distributed event-driven systems. I like when stuff goes towards the deep end of things.
 
-Over the last 5+ years, I've worked on projects ranging from API development to distributed event-driven systems using technologies like PostgreSQL, RabbitMQ, Kafka, NATS, and Redis. I enjoy solving real-world problems with clean, efficient code and robust system design.
+I once invented a (*useless*) network protocol for fun and also made a search engine that scraped 1+ million pages in 12 hours (then I reset my PC without committing it to a repo and lost the entire codebase...)
 
-Some areas I like working with:
+Stuff I do:
+- Backend development - APIs, real-time applications, background workers
+- Distributed systems - message queues, event-driven architecture, high availability
+- Infrastructure - Docker, CI/CD, deployment automation, server orchestration
+- Networking at edge - load balancing, reverse proxies, service meshes
 
-- Backend Development (APIs, real-time apps, system services)
-- Distributed Systems & Event-Driven Architecture
-- Cloud Infrastructure, Docker, and Deployment
-- Edge Networking — Load Balancing, Service Meshes, Proxies
+Some interesting facts:
+- Made an Arduino robot for a school science fair when I was 13 and won the entire thing.
+- Created a YT channel for tech tutorials and discussions at 14. 
+- Coded a ransomware (for learning purposes) at 15 y/o and accidentally encrypted 400 GB of files in my own PC and I could not decrypt them...
+- Founded an Ed-Tech platform for the people in my country to learn tech in their native tongue when I was 16. 
+- Got 1st place in a national IT Olympiad competition when I was 17 with absolutely no prep. 
 
-## 🔧 Tech I work with
-
-`Python` | `Go` | `C/C++` | `TypeScript` | `Lua` | `PostgreSQL` | `Redis` | `RabbitMQ` | `Kafka` | `NATS` | `Docker` | `Linux` | `Cloud Platforms` | `Kubernetes` | `Distributed Systems`
-
-## Currently Learning
-1. Observability (metrics, tracing, logging at scale)
-2. High-frequency networking and edge computing concepts
-
-## 📫 Reach out
-
-I'm always open to connecting and talking about tech, systems, or just exchanging ideas!
-Feel free to reach out [here](mailto:ahnaf@ahnafzamil.com) or on [LinkedIn](https://www.linkedin.com/in/ahnafzamil/).
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahnaf-zamil&theme=2077) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahnaf-zamil&theme=2077) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahnaf-zamil&theme=2077&exclude=html,CSS,javascript)
+## Reach out
+If you want to talk or connect, you can find me on my email or Linkedin.
+[Mail](mailto:ahnaf@ahnafzamil.com) | [LinkedIn](https://www.linkedin.com/in/ahnafzamil/).
